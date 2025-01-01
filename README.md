@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/gmazzo/gradle-aar2jar-plugin)
+ ![GitHub](https://img.shields.io/github/license/gmazzo/gradle-aar2jar-plugin)
 [![Gradle Plugin Portal](https://img.shields.io/gradle-plugin-portal/v/io.github.gmazzo.aar2jar)](https://plugins.gradle.org/plugin/io.github.gmazzo.aar2jar)
 [![Build Status](https://github.com/gmazzo/gradle-aar2jar-plugin/actions/workflows/build.yaml/badge.svg)](https://github.com/gmazzo/gradle-aar2jar-plugin/actions/workflows/build.yaml)
 [![Coverage](https://codecov.io/gh/gmazzo/gradle-aar2jar-plugin/branch/main/graph/badge.svg?token=D5cDiPWvcS)](https://codecov.io/gh/gmazzo/gradle-aar2jar-plugin)
